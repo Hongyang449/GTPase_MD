@@ -5,7 +5,7 @@ This is the repository of the Molecular Dynamics (MD) simulation codes.
 Please contact (hyangl@umich.edu) if you have any questions or suggestions.
 
 <p align="left">
-<img src="https://github.com/Hongyang449/GTPase_MD/blob/master/figure/gtpase.tif" width="700">
+<img src="https://github.com/Hongyang449/GTPase_MD/blob/master/figure/gtpase.png" width="700">
 </p>
 
 ## Required dependencies
